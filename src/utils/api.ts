@@ -1,0 +1,1 @@
+// Placeholder for API functions (e.g., for fetching messages or sending messages to the server).
